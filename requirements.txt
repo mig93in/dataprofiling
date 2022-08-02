@@ -6,5 +6,6 @@ DataProfiler
 streamlit
 pandas
 streamlit_pandas_profiling
+DataProfiler
 
 cffi==1.15.0
